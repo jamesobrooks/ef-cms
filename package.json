@@ -29,7 +29,7 @@
     "@opensearch-project/opensearch": "^2.2.1",
     "archiver": "^5.3.1",
     "aws-sdk": "^2.1368.0",
-    "axios": "^1.4.0",
+    "axios": "^1.13.5",
     "broadcast-channel": "^5.1.0",
     "canvas": "^2.11.2",
     "cerebral": "5.2.1",
